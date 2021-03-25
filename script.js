@@ -1,12 +1,12 @@
 //global constants
-const clueHoldTime = 1000;
+const clueHoldTime = 500;
 const cluePauseTime = 333;
 const nextClueWaitTime = 1000;
 
 //global variables
 var volume = 0.5;
 var tonePlaying = false;
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4];
+var pattern = [7, 6, 4, 3, 8, 1, 5, 2, 9, 3, 1, 7];
 var progress = 0;
 var gamePlaying = false;
 var guessCounter = 0;
@@ -30,7 +30,12 @@ const freqMap = {
   1: 261.6,
   2: 329.6,
   3: 392,
-  4: 466.2
+  4: 466.2,
+  5: 300.0,
+  6: 532,
+  7: 278,
+  8: 350,
+  9: 476.2
 };
 function playTone(btn, len) {
   o.frequency.value = freqMap[btn];

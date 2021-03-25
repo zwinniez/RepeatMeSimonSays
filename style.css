@@ -50,3 +50,38 @@ button {
 #button4.lit {
   background: yellow;
 }
+#button5 {
+  background: #42cef5;
+}
+#button5:active,
+#button5.lit {
+  background: #1f96b8;
+}
+#button6 {
+  background: #d48ec1;
+}
+#button6:active,
+#button6.lit {
+  background: #91497e;
+}
+#button7 {
+  background: #ffbe5c;
+}
+#button7:active,
+#button7.lit {
+  background: #db962e;
+}
+#button8 {
+  background: #b3f5a9;
+}
+#button8:active,
+#button8.lit {
+  background: #4e9144;
+}
+#button9 {
+  background: #ffc9fc;
+}
+#button9:active,
+#button9.lit {
+  background: #b886b2;
+}
