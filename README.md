@@ -23,8 +23,8 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 
 - [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-- [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-- [ ] More than 4 functional game buttons
+- [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+- [x] More than 4 functional game buttons
 - [ ] Playback speeds up on each turn
 - [ ] Computer picks a different pattern each time the game is played
 - [ ] Player only loses after 3 mistakes (instead of on the first mistake)
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://cdn.glitch.com/345b9a8f-5525-4dcb-8378-95c07ea46a7c%2Fsimonsays.gif?v=1616642747663)
+![](https://cdn.glitch.com/345b9a8f-5525-4dcb-8378-95c07ea46a7c%2Frepeatmesimonsays.gif?v=1616643674293)
 
 ## Reflection Questions
 
