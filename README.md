@@ -6,7 +6,7 @@ Submitted by: **Winnie Zheng**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/simon-says-repeat?path=README.md%3A1%3A0)
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://cdn.glitch.com/345b9a8f-5525-4dcb-8378-95c07ea46a7c%2Fsimonsays.gif?v=1616642747663)
 
 ## Reflection Questions
 
